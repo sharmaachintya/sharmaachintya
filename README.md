@@ -4,5 +4,5 @@ Hi there 👋
 - 👯 I’m looking to collaborate on any project related to Machine Learning
 - 💬 Ask me about any stuff related to Machine Learning
 - 📫 How to reach me: achintya9998@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: Har/Har Mahadev
 - ⚡ Fun fact: Gaming is more intresting than Coding :)
