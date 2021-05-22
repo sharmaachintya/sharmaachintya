@@ -20,7 +20,7 @@
 
 <br>
 
-  <img align="right" alt="Code" src="https://raw.githubusercontent.com/Lucky0108/Lucky0108/master/img/codeView.jpg?raw=true" width="500" height="320" />
+  <img align="right" alt="Code" src="https://raw.githubusercontent.com/sharmaachintya/sharmaachintya/main/AI.jpg?raw=true" width="500" height="320" />
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
