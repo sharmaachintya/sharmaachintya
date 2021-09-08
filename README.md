@@ -7,7 +7,7 @@
   <img align="left" alt="Achintya Shamra's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a> -->
 <a href="https://www.kaggle.com/sharmaachintya">
-  <img align="left" alt="Achintya Sharma's Kaggle" width="22px" 
+  <img align="left" alt="" width="22px" 
   src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" />
 </a>
 <a href="https://instagram.com/sharma__achintya">
