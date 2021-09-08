@@ -6,6 +6,9 @@
 <!-- <a href="https://www.reddit.com/user/">
   <img align="left" alt="Achintya Shamra's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a> -->
+<a href="https://www.kaggle.com/sharmaachintya">
+  <img align="left" alt="Achintya Sharma's Kaggle" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" />
+</a>
 <a href="https://instagram.com/sharma__achintya">
   <img align="left" alt="Achintya Sharma | Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/svg/instagram.svg" />
 </a>
