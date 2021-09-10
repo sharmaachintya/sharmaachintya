@@ -17,7 +17,7 @@
 <!-- <a href="https://open.spotify.com/user/">
   <img align="left" alt="Achintya's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
-<br></br>
+<p></p>
 ![](https://visitor-badge.glitch.me/badge?page_id=sharmaachintya) 
 
 <br>
