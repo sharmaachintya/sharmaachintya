@@ -9,7 +9,7 @@
 <a href="https://www.kaggle.com/sharmaachintya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sharmaachintya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/achintya9998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="achintya9998" height="30" width="40" /></a>
 <a href="https://instagram.com/sharma__achintya">
-  <img align="left" alt="Achintya Sharma | Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/svg/instagram.svg" />
+  <img align="left" alt="Achintya Sharma | Instagram" height="30" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/svg/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/achintya-sharma-aa3a191b1/">
   <img align="left" alt="Achintya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
