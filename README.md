@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sharmaachintya">
   <img align="left" alt="Achintya's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
+</a> 
 <!-- <a href="https://www.reddit.com/user/">
   <img align="left" alt="Achintya Shamra's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a> -->
