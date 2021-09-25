@@ -34,7 +34,7 @@
 
 - 📫 How to reach me: **achintya9998@gmail.com**
 
-- ⚡ Fun fact: **Gaming is more intresting than Coding :")**
+- ⚡ Fun fact: **Life is no FUN and it's a FACT**
 
 <br> <br> <br>
 <hr>
