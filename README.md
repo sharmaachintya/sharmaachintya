@@ -26,9 +26,9 @@
 
   <img align="right" alt="Code" src="https://raw.githubusercontent.com/sharmaachintya/sharmaachintya/main/AI.jpg?raw=true" width="500" height="320" />
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **any project related to Machine Learning**
+- 👯 I’m looking to collaborate on **any project related to SD or Machine Learning**
 
 - 💬 Ask me about, **Any stuff related to Machine Learning**
 
