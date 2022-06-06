@@ -4,7 +4,7 @@
   <img align="left" alt="Achintya's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a> 
 <a href="https://leetcode.com/sharmaachintya/">
-  <img align="left" alt="Achintya Shamra's LeetCode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
 </a>
 <a href="https://www.kaggle.com/sharmaachintya" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sharmaachintya" width="22px" />
 </a>
