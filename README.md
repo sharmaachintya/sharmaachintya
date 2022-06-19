@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on **any project related to SD or Machine Learning**
 
-- 💬 Ask me about, **Any stuff related to Machine Learning**
+- 💬 Ask me about, **Any stuff related to Data Structures and Algorithms**
 
 - 📫 How to reach me: **achintya9998@gmail.com**
 
