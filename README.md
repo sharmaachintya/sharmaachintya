@@ -21,7 +21,7 @@
 
 <br>
 
-  <img align="right" alt="Code" src="https://raw.githubusercontent.com/sharmaachintya/sharmaachintya/main/codeXD.jpg?raw=true" width="500" height="320" />
+  <img align="right" alt="Code" src="https://raw.githubusercontent.com/sharmaachintya/sharmaachintya/main/codeXD.jpg?raw=true" width="400" height="320" />
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
