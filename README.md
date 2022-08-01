@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaachintya&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaachintya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaachintya" alt="sharmaachintya" /></a> </p>
 
 ## 1. 🙋‍♂️ About Me
 
@@ -33,6 +32,9 @@
 
 
 ## 3. 📊 My Github Stats
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaachintya" alt="sharmaachintya" /></a> </p>
 
 <br/>
     <a href="https://github.com/sharmaachintya/github-readme-stats"><img alt="Achintya sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharmaachintya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
