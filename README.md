@@ -1,65 +1,60 @@
-### Hi there 👋 
-     
-<a href="https://github.com/sharmaachintya">
-  <img align="left" alt="Achintya's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a> 
-<a href="https://www.kaggle.com/sharmaachintya" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sharmaachintya" width="22px" />
-</a>
-<a href="https://www.hackerrank.com/achintya9998" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="achintya9998" width="22px" />
-</a>
-<a href="https://instagram.com/sharma__achintya">
-  <img align="left" alt="Achintya Sharma | Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/62e8265899720b173180bab152e5e0e5ff7dce30/images/svg/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/achintya-sharma-aa3a191b1/">
-  <img align="left" alt="Achintya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<!-- <a href="https://open.spotify.com/user/">
-  <img align="left" alt="Achintya's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sharmaachintya) 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Achintya</h1>
+<h3 align="center">I'm a fresher in Software Developing</h3>
 
-<br>
 
-  <img align="right" alt="Code" src="https://raw.githubusercontent.com/sharmaachintya/sharmaachintya/main/codeXD.jpg?raw=true" width="350" height="335" />
+## 1. 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning Data Structures and Algorithms.
 
-- 👯 I’m looking to collaborate on **any project related to SD or Machine Learning**
+- 👯 I’m looking to collaborate on OpenSource Projects and Problem solving.
 
-- 💬 Ask me about, **Any stuff related to Data Structures and Algorithms**
+- 👨‍💻 All of my projects are available at [My Linkedin Profile](https://www.linkedin.com/in/ayush-kumar-2a7a11190/)
 
-- 📫 How to reach me: **achintya9998@gmail.com**
+- 📫 How to reach me achintya9998@gmail.com
 
-<br></br>
+## 2. 🚀 Languages and Tools:
 
-<br> <br> <br>
-<hr>
+<p align="left">
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-**Languages and Tools:**  
+<br/>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/77210430/121658714-3a438580-cabf-11eb-9d23-cdaa360b2268.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/77210430/121661848-441ab800-cac2-11eb-9bb0-41e2e9c2fda0.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/githup891/SY91/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-___
-
-### 📈 My GitHub Stats
-
-<p align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=sharmaachintya&show_icons=true&count_private=true&line_height=30&theme=vision-friendly-dark" alt="Achintya's Github Stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaachintya" alt="Achintya's Github Top Languages">
-<br> <br> <br> <br> <br>
+<p align="center">
+    <a href="https://github.com/ayush26kr/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Achintya Sharma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush26kr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaachintya&margin-w=15&margin-h=15&no-bg=true&theme=darkhub" alt="sharmaachintya" /></a> </p>
-<br>
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=sharmaachintya&theme=vision-friendly-dark&hide_border=true" alt="Achintya's Github Streak Stats" ></p>
 
+## 3. 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/sharmaachintya/github-readme-stats"><img alt="Achintya Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharmaachintya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sharmaachintya/github-readme-stats"><img alt="Achintya Sharma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaachintya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/sharmaachintya/github-readme-activity-graph"><img alt="Achintya Sharma Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sharmaachintya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## 4. Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/achintya-sharma-aa3a191b1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://leetcode.com/sharmaachintya/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+
+</p>
