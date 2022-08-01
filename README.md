@@ -1,9 +1,7 @@
-<a href="#"><img width="50%" height="auto" src="https://pbs.twimg.com/media/FNmIgAgVcAAgKLK.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://pbs.twimg.com/media/FNmIgAgVcAAgKLK.jpg" height="75px"/></a>
 
 <h1 align="center">Hi 👋, I'm Achintya Sharma</h1>
 <h3 align="center">A fresher in Software Development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaachintya&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaachintya" /> </p>
 
 
 ## 1. 🙋‍♂️ About Me
