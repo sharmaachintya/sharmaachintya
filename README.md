@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.redd.it/hwurhp7crzf81.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://pbs.twimg.com/media/FNmIgAgVcAAgKLK.jpg" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Achintya Sharma</h1>
 <h3 align="center">A fresher in Software Development</h3>
