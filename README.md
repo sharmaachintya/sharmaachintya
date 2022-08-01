@@ -34,7 +34,7 @@
 ## 3. 📊 My Github Stats
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaachintya" alt="sharmaachintya" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaachintya" alt="sharmaachintya" /></a> </p>
 
 <br/>
     <a href="https://github.com/sharmaachintya/github-readme-stats"><img alt="Achintya sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharmaachintya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
