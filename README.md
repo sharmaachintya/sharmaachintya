@@ -34,10 +34,20 @@
 
 ## 3. 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaachintya&show_icons=true&locale=en&layout=compact" alt="sharmaachintya" /></p>
+<br/>
+    <a href="https://github.com/sharmaachintya/github-readme-stats"><img alt="Achintya sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharmaachintya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sharmaachintya/github-readme-stats"><img alt="Achintya Sharma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaachintya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaachintya&show_icons=true&locale=en" alt="sharmaachintya" /></p>
 
+<br/>
+<br/>
+
+<a href="https://github.com/sharmaachintya/github-readme-activity-graph"><img alt="Ayush Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sharmaachintya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 ## 4. Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/achintya-sharma-aa3a191b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/achintya-sharma-aa3a191b1/" height="30" width="40" /></a>
