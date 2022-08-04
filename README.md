@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Achintya Sharma</h1>
 <h3 align="center">A fresher in Software Development</h3>
-
+ 
 
 ## 1. 🙋‍♂️ About Me
 
