@@ -1,5 +1,5 @@
 <p align="center"><a href="#"><img width="40%" height="auto" src="https://pbs.twimg.com/media/FNmIgAgVcAAgKLK.jpg" height="75px"/></a></p>
-
+ 
 <h1 align="center">Hi 👋, I'm Achintya Sharma</h1>
 <h3 align="center">A fresher in Software Development</h3>
  
