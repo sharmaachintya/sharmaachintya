@@ -6,7 +6,7 @@
  
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Automatic System for detecting trends in Fashion.**
+- 🔭 I’m currently working on **Data Structures**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
