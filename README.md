@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Structures**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Dynamic Programming**
 
 - 👯 I’m looking to collaborate on **Open Source Projects and Problem Solving.**
 
