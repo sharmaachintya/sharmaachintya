@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Achintya Sharma</h1>
 <h3 align="center">A Software Engineer</h3>
  
- 
+  
 ## 1. 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Data Structures**
