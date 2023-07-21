@@ -6,9 +6,9 @@
   
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Data Structures**
+- 🔭 I’m currently working on **Creating an EdTech Platform**
 
-- 🌱 I’m currently learning **Dynamic Programming**
+- 🌱 I’m currently learning **MERN Stack Web Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects and Problem Solving.**
 
