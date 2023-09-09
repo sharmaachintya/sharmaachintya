@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects and Problem Solving.**
 
-- 💬 Ask me about **DSA and Machine Learning**
+- 💬 Ask me about **DSA and Web Development**
 
 - 📫 How to reach me **achintya9998@gmail.com**
 
