@@ -1,7 +1,7 @@
 <p align="center"><a href="#"><img width="40%" height="auto" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="75px"/></a></p>
  
 <h1 align="center">Hi 👋, I'm Achintya Sharma</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A ML Engineer</h3>
  
   
 ## 1. 🙋‍♂️ About Me
